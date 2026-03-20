@@ -20,6 +20,21 @@
         "pest-testing",
         "inertia-vue-development",
         "tailwindcss-development",
-        "fortify-development"
+        "fortify-development",
+        "eloquent-best-practices",
+        "laravel-actions",
+        "laravel-architecture",
+        "laravel-best-practices",
+        "laravel-dtos",
+        "laravel-enums",
+        "laravel-expert",
+        "laravel-models",
+        "laravel-multi-tenancy",
+        "laravel-patterns",
+        "laravel-permission-development",
+        "laravel-quality",
+        "laravel-security",
+        "laravel-validation",
+        "php-best-practices"
     ]
 }
